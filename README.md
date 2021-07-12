@@ -5,6 +5,7 @@
 - 📫 How to reach me 
 Mail Me on hirenkeshvani16187@gmail.com
 Call me - 7990547294
+- Connect with me on LinkedIn https://www.linkedin.com/in/hirenkeshvani
 
 <!---
 HirenHKeshvani/HirenHKeshvani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
