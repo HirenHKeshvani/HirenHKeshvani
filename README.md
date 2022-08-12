@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Hiren Keshvani
-- 👀 I’m interested in web development,Java Development,Software Development,MERN Stack Development and Javascript Frameworks
-- 🌱 I’m currently learning Java,OOPS,Javascript and MERN Stack
-- 💞️ I’m looking for full time job in development
-- 📫 Mail Me on hirenkeshvani16187@gmail.com
-Call me - 7990547294
+- 👀 I’m interested in web development,Java Development,Software Development, Java and Javascript Frameworks
+- 🌱 I’m currently learning Spring MVC.
 - Connect with me on LinkedIn https://www.linkedin.com/in/hirenkeshvani
 
 <!---
