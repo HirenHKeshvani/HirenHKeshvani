@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Hiren Keshvani
 - 👀 I’m interested in web development,Java Development,Software Development, Java and Javascript Frameworks
-- 🌱 I’m currently learning Spring MVC.
-- Connect with me on LinkedIn https://www.linkedin.com/in/hirenkeshvani
+- 🌱 Connect with me on LinkedIn https://www.linkedin.com/in/hirenkeshvani
 
 <!---
 HirenHKeshvani/HirenHKeshvani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
